@@ -1,5 +1,11 @@
 awdawdawasdasd
 sfdsfadasd
 fghawdawdasdasdasd
+<<<<<<< HEAD
+sfdsdadasdssdsdsdfghfghfghgfdfgasdasdadwawd
+sfdsdadasdssdsdsdfghfghfghgfdfgdfgdfgdgdfgdfgdfg
+=======
 sfdsdadasdssdsdsdfghfghfghgfdfgasdasdadwawdadawd
 sfdsdadasdssdsdsdfghfghfghgfdfgsdfsdfadad
+>>>>>>> 333333333
+ddgfdfgdfgdsdfsdfd
