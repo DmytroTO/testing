@@ -25,3 +25,7 @@ fdhdfgdgdfg
 >>>>>>> 333333333sdfsdfssdasdsasdsaqq1122222
 asdasdsdsdfdfgdfgsdfsdfsdtrty456456aasdasdfjgfhhfkhf
 >>>>>>> zzzzzzz
+<<<<<<< HEAD
+=======
+qweqweasdasasdasasdasdasdasdasdasdasdasds
+>>>>>>> fbd96b5... 11111111111111111111
