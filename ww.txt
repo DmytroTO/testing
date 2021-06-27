@@ -10,8 +10,13 @@ sfdsdadasdssdsdsdfghfghfghgfdfgsdfsdfadad
 >>>>>>> 333333333
 <<<<<<< HEAD
 ddgfdfgdfgdsdsdfsdfhjghjghj
+<<<<<<< HEAD
 dfgdfgfdg=======dfgdfgdfgdfg
 ddgfdfgdfgdsdfsdfdasasdssdf
+=======
+dfgdfgfdg=======dfgdfgdfgdfgsdfsdfds
+ddgfdfgdfgdsdfsdfdasasdssaasdasdsdasddf
+>>>>>>> 7a70361... adadad
 <<<<<<< HEADasdasd
 >>>>>>> 333333333aasdasd
 asdasdghjghj
